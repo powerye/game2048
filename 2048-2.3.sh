@@ -10,9 +10,9 @@ score=0
 ##########YOUR CONFIG##########
 WIDTH=4
 #any Integer
-AI=YES
+AI=NO
 #YES or NO
-DEPTH=3
+DEPTH=1
 #It works when AI=YES
 BESTSCORE=4868
 #Modifying BESTSCORE is not recommended
